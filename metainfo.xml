@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="1EBE9429-E08E-4822-9C9B-E1BEF0509E68" version="0">
+<presentation availableOffline="1" guid="40ED5827-E1DA-4A65-9B6C-F19205958B94" version="0">
 	<info>
-		<title>big update 2</title>
+		<title>VÁ Lỗi module 2</title>
 		<description/>
 	</info>
-	<files index="id20" thumbnail="id16" totalSize="2571149">
+	<files index="id20" thumbnail="id16" totalSize="2574719">
 		<file id="id0">data/browsersupport.js</file>
 		<file id="id1">data/fonts/fnt0.woff</file>
 		<file id="id2">data/fonts/fnt1.woff</file>
