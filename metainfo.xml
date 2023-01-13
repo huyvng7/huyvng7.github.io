@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="11066256-9513-4734-A337-6C752BC54F3D" version="0">
+<presentation availableOffline="1" guid="FA92F017-20A9-498B-96FA-56B0A897017A" version="0">
 	<info>
-		<title>Cập nhật big update 2 (bổ sung 25 câu hỏi)</title>
+		<title>vá lỗi</title>
 		<description/>
 	</info>
-	<files index="id27" thumbnail="id23" totalSize="3148300">
+	<files index="id27" thumbnail="id23" totalSize="3149004">
 		<file id="id0">data/browsersupport.js</file>
 		<file id="id1">data/fonts/fnt0.woff</file>
 		<file id="id2">data/fonts/fnt1.woff</file>
