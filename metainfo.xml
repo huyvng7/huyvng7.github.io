@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="FA92F017-20A9-498B-96FA-56B0A897017A" version="0">
+<presentation availableOffline="1" guid="BEDA4CFB-53F0-463A-AAF2-ECB13190D139" version="0">
 	<info>
-		<title>vá lỗi</title>
+		<title>cập nhật lần cuối cho cuộc thi </title>
 		<description/>
 	</info>
-	<files index="id27" thumbnail="id23" totalSize="3149004">
+	<files index="id26" thumbnail="id22" totalSize="3074669">
 		<file id="id0">data/browsersupport.js</file>
 		<file id="id1">data/fonts/fnt0.woff</file>
 		<file id="id2">data/fonts/fnt1.woff</file>
@@ -25,16 +25,15 @@
 		<file id="id17">data/images/img-db35-4162-c6c7-ea73.jpg</file>
 		<file id="id18">data/images/img-df8c-a882-9b8a-5238.jpg</file>
 		<file id="id19">data/images/img-e71a-39c5-fdb9-561d.jpg</file>
-		<file id="id20">data/images/quiz_bg_0.jpg</file>
-		<file id="id21">data/ismplayer/app_store2x.png</file>
-		<file id="id22">data/ismplayer/play.svg</file>
-		<file id="id23">data/ismplayer/preview.png</file>
-		<file id="id24">data/ismplayer/style.css</file>
-		<file id="id25">data/ismplayer/style_mini.css</file>
-		<file id="id26">data/player.js</file>
-		<file id="id27">index.html</file>
-		<file id="id28">ismplayer.html</file>
-		<file id="id29">preview.png</file>
+		<file id="id20">data/ismplayer/app_store2x.png</file>
+		<file id="id21">data/ismplayer/play.svg</file>
+		<file id="id22">data/ismplayer/preview.png</file>
+		<file id="id23">data/ismplayer/style.css</file>
+		<file id="id24">data/ismplayer/style_mini.css</file>
+		<file id="id25">data/player.js</file>
+		<file id="id26">index.html</file>
+		<file id="id27">ismplayer.html</file>
+		<file id="id28">preview.png</file>
 	</files>
 </presentation>
 
