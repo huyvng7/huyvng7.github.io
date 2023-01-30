@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="BEDA4CFB-53F0-463A-AAF2-ECB13190D139" version="0">
+<presentation availableOffline="1" guid="505E6E56-AFAE-42F6-9E98-F45560091790" version="0">
 	<info>
-		<title>cập nhật lần cuối cho cuộc thi </title>
+		<title>cập nhật tiếng việt cho phần câu hỏi thứ 2 </title>
 		<description/>
 	</info>
-	<files index="id26" thumbnail="id22" totalSize="3074669">
+	<files index="id26" thumbnail="id22" totalSize="3069357">
 		<file id="id0">data/browsersupport.js</file>
 		<file id="id1">data/fonts/fnt0.woff</file>
 		<file id="id2">data/fonts/fnt1.woff</file>
